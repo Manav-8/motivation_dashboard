@@ -1,16 +1,80 @@
-# React + Vite
+# Motivation Dashboard ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and inspiring dashboard designed to boost productivity, focus, and positivity through motivational content, daily goals, and a clean user experience.
 
-Currently, two official plugins are available:
+## 🌟 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Motivation Dashboard is a personal productivity web application created to help users stay consistent, energized, and goal-oriented. It combines motivation with organization in a single interactive interface.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 💬 Daily motivational quotes
+* 🎯 Goal / task tracking
+* 📅 Clean dashboard layout
+* ⚡ Fast and responsive performance
+* 📱 Mobile-friendly design
+* 🧘 Positive and distraction-free UI
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Vite
+* JavaScript (ES6+)
+* CSS / Tailwind CSS
+
+## 📂 Project Structure
+
+```txt id="md9012"
+motivation_dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+├── package.json
+└── README.md
+```
+
+## ▶️ Getting Started
+
+Clone the repository:
+
+```bash id="md8201"
+git clone https://github.com/Manav-8/motivation_dashboard.git
+cd motivation_dashboard
+```
+
+Install dependencies:
+
+```bash id="md2109"
+npm install
+```
+
+Run locally:
+
+```bash id="md3102"
+npm run dev
+```
+
+## 🎯 Purpose
+
+This project was built to practice and improve skills in:
+
+* React component design
+* State management
+* Dynamic rendering
+* UI/UX development
+* Productivity-focused app design
+
+## 🔮 Future Improvements
+
+* Habit tracker integration
+* Pomodoro timer
+* Dark mode
+* Personalized quote categories
+* Progress analytics
+* Authentication & saved data
+
+## 👨‍💻 Author
+
+Made by **Manav Saraf**
